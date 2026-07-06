@@ -150,15 +150,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📧 Contact
-
-For questions or feedback, please contact:
-
-- **Author**: [Your Name](https://github.com/your-username)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-
----
-
 ## 📜 Changelog
 
 ### v1.0.0 (2026-07-06)
