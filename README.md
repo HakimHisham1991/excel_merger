@@ -41,8 +41,8 @@ Edit the `CONFIG` section in `excel_merger.py` to customize the following parame
 
 | Parameter             | Description                                                       | Default Value                                                                           |
 | --------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| `SOURCE_DIR`          | Directory containing the source Excel files                       | `Path(r"C:\\Users\\Public\\Documents\\011_EXCEL_MERGER\\AL10_PARTS_EXCEL")`             |
-| `OUTPUT_FILE`         | Path and filename for the merged output file                      | `Path(r"C:\\Users\\Public\\Documents\\011_EXCEL_MERGER\\AL10_PARTS_EXCEL_MERGED.xlsx")` |
+| `SOURCE_DIR`          | Directory containing the source Excel files                       | `Path(r"C:\\temp\\EXCEL_SOURCE")`                                                       |
+| `OUTPUT_FILE`         | Path and filename for the merged output file                      | `Path(r"C:\\temp\\EXCEL_MERGED.xlsx")`                                                  |
 | `SHEET_SELECTOR`      | Sheet to read from each source file (0-based index or sheet name) | `0`                                                                                     |
 | `APPENDIX_HEADER`     | Text marker identifying the start of data rows                    | `"Tool No."`                                                                            |
 | `STOP_MARKER`         | Text marker identifying the end of data rows                      | `"CAM Programmer :"`                                                                    |
